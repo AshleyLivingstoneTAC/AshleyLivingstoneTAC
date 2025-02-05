@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+## Pronouns: She/Her
+## Game Programmer at Champlain College
+## Expected Graduation: May 2025
 <!--
 **AshleyLivingstoneTAC/AshleyLivingstoneTAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
