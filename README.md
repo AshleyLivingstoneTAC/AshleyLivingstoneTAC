@@ -2,6 +2,9 @@
 ## Pronouns: She/Her
 ## Game Programmer at Champlain College
 ## Expected Graduation: May 2025
+
+## I'm currently working on a custom gravity system based on Super Mario Galaxy! You can find it here: https://github.com/AshleyLivingstoneTAC/Portfolio
+
 <!--
 **AshleyLivingstoneTAC/AshleyLivingstoneTAC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
